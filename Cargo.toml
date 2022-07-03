@@ -5,6 +5,4 @@ members = [
     "samp-runtime",
     "samp-async",
     "samp",
-    "examples/timers",
-    "examples/memcached",
 ]
